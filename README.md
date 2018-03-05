@@ -1,4 +1,6 @@
-Práce je v podobě python balíčku.
+pyrest je mnou vyvinutý modul pro potřeby Katedry aplikované matematiky FIT ČVUT, který realizuje symbolické vyhodnocení python výrazu pomocí REST API s využitím počítačového algebraického systému sympy.  
+
+Modul je v podobě python balíčku.
 Pro spuštění práce v Docker kontejneru je potřeba nainstalovaný Docker Engine, po jeho instalaci lze využít přiložený src/impl/Makefile.
 
 make build
