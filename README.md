@@ -50,5 +50,5 @@ Doporučený postup pro seznámení se s touto prací je následující:
 
 2. sestavíme a spustíme kontejner pomocí "make container"
 
-3. prohlédneme si obsah src/impl/curl_tests, obsahuje sadu několika skriptů, které simulují interakci MARASTu s modulem
+3. prohlédneme si obsah složky curl_tests, obsahuje sadu několika skriptů, které simulují interakci MARASTu s modulem
 
