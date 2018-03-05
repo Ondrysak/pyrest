@@ -1,0 +1,4 @@
+__pycache__
+*.pyc
+pyrest.sublime*
+.cache*

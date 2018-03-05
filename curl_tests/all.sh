@@ -1,0 +1,1 @@
+for i in ./test*.sh; do $i; echo; done
