@@ -29,15 +29,15 @@ make documentation
 	
 	spuštění jednotkových testů, je nutno mít nainstalovaný pytest
 
-src/impl/curl_tests
+curl_tests
 
 	obsahuje scripty, které testují fungování modulu pomocí příkazu curl 
 
-src/impl/siege_tests
+siege_tests
 
 	obsahuje scripty, které testují modulu pomocí nástroje siege, je potřeba nainstalovaný siege
 
-src/impl/load_estimate
+load_estimate
 
 	obsahuje zdrojové kódy v podobě ipynb, pro interaktivní procházení dat z MARAST v podobě histogramu
 	k otevření je potřeba použít příkaz "ipython notebook", je tedy nutné mít nainstalovaný ipython
